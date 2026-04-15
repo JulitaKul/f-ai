@@ -71,3 +71,27 @@ via File → Save As → PNG before uploading.
 - M/C heatmap — each cell coloured by its M/C ratio (blue = low, red = high)
 - Per-cell results table — M/C ratio, N/C ratio, area, centroid, localization class, confidence
 - CSV download — all per-cell metrics ready for GraphPad Prism,
+---
+
+## Citation
+Kulbacka J. et al. (2025). F-AI: Fluorescence Image Analyzer (v0.1.0). GitHub. https://github.com/JulitaKul/f-ai
+--
+
+## Funding
+
+This research was funded by the European Union (NextGenerationEU) as part of the National Recovery and Resilience Plan, supported by the Medical Research Agency. 
+Project number KPOD.07.07-IW.07-0072/24 (PI: J. Kulbacka). Acronym: Onko-SPARK.
+
+---
+## Contact
+
+Julita Kulbacka  
+Department of Molecular and Cellular Biology, 
+Faculty of Pharmacy  
+Wroclaw Medical University, Poland  
+julita.kulbacka@umw.edu.pl
+
+---
+## License
+
+MIT — free for academic and non-commercial use.
