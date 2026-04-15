@@ -74,7 +74,7 @@ via File → Save As → PNG before uploading.
 ---
 
 ## Citation
-Kulbacka J. et al. (2025). F-AI: Fluorescence Image Analyzer (v0.1.0). GitHub. https://github.com/JulitaKul/f-ai
+Kulbacka J. et al. (2026). F-AI: Fluorescence Image Analyzer (v0.1.0). GitHub. https://github.com/JulitaKul/f-ai
 --
 
 ## Funding
