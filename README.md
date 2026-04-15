@@ -11,7 +11,7 @@ No installation. No data upload. All processing runs locally in your browser.
 
 ## Live application
 
-**[Launch F-AI →](https://JulitaKul.github.io/f-ai/)**
+**[Launch F-AI →]([https://fluorescent-ai.netlify.app/])**
 
 ---
 
